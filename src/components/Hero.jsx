@@ -119,7 +119,6 @@ const Hero = () => {
 		 src="/videos/output.mp4"
 		/>
 	 </div>
-     <div className="whitebox w-[20px] h-[20px] bg-white"></div>
 	</>
  );
 };
